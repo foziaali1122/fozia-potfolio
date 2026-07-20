@@ -1,4 +1,4 @@
-# Fozia Roshan | AI Engineer Portfolio
+# Fozia Roshan Portfolio
 
 A professional personal portfolio website showcasing my work as an **AI Engineer, ML & Python Developer, and UI/UX Designer**.
 
@@ -9,7 +9,6 @@ A professional personal portfolio website showcasing my work as an **AI Engineer
 ## Features
 
 * Responsive design
-* Dark/Light mode
 * GitHub API integration
 * Featured AI and Machine Learning projects
 * Mobile-friendly layout
